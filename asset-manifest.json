@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/temp-portfolio-react/static/css/main.55c2dc27.css",
+    "main.js": "/temp-portfolio-react/static/js/main.13a21d4e.js",
+    "static/media/gimp.png": "/temp-portfolio-react/static/media/gimp.efbc207ad84ab44dfe76.png",
+    "static/media/windows-os-logo.png": "/temp-portfolio-react/static/media/windows-os-logo.d6c01210a5cb0ef3b5e6.png",
+    "static/media/scripting.png": "/temp-portfolio-react/static/media/scripting.cb02785253db79c3d55f.png",
+    "static/media/tizen-web-framework.png": "/temp-portfolio-react/static/media/tizen-web-framework.4e6a08f723746de9bb99.png",
+    "static/media/android-dev.png": "/temp-portfolio-react/static/media/android-dev.b463db76250164fc2760.png",
+    "static/media/Product Sans Bold.ttf": "/temp-portfolio-react/static/media/Product Sans Bold.53df38d5491afbeb42a5.ttf",
+    "static/media/sqlite.png": "/temp-portfolio-react/static/media/sqlite.97088505b6890baa565f.png",
+    "static/media/vuejs.png": "/temp-portfolio-react/static/media/vuejs.489361416839de379d55.png",
+    "static/media/linux.png": "/temp-portfolio-react/static/media/linux.51f60e3e90967713d3db.png",
+    "static/media/Product Sans Regular.ttf": "/temp-portfolio-react/static/media/Product Sans Regular.d165384076551a756b3c.ttf",
+    "static/media/c-programming.png": "/temp-portfolio-react/static/media/c-programming.c42812be41125b2c2ec8.png",
+    "static/media/reactnative.png": "/temp-portfolio-react/static/media/reactnative.f3e576ba08e6be927148.png",
+    "static/media/java.png": "/temp-portfolio-react/static/media/java.db2677ade9a5e70e925b.png",
+    "static/media/gcp.png": "/temp-portfolio-react/static/media/gcp.af3a9505746c56134dbc.png",
+    "static/media/css.png": "/temp-portfolio-react/static/media/css.d9bcd77142299ea64115.png",
+    "static/media/javascript.png": "/temp-portfolio-react/static/media/javascript.3abb3de3f1e1d537ad2e.png",
+    "index.html": "/temp-portfolio-react/index.html",
+    "main.55c2dc27.css.map": "/temp-portfolio-react/static/css/main.55c2dc27.css.map",
+    "main.13a21d4e.js.map": "/temp-portfolio-react/static/js/main.13a21d4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55c2dc27.css",
+    "static/js/main.13a21d4e.js"
+  ]
+}
