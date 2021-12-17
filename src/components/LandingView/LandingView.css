@@ -34,7 +34,7 @@
     .hello-im-parth {
         align-self: flex-end;
         margin-left: 2rem;
-        margin-bottom: 3rem;
+        margin-bottom: 50px;
         color: white;
     }
     
@@ -48,7 +48,7 @@
     }
     .big-text-cs-student {
         font-size: 20px;
-        line-height: 20px;
+        line-height: 24px;
         max-width: 95%;
         letter-spacing: 1px;
         white-space: normal;
