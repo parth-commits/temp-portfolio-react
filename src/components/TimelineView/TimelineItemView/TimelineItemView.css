@@ -1,0 +1,103 @@
+@font-face {
+    font-family: "ProductSansBold";
+    src: url("../../../fonts/Product Sans Bold.ttf")  format("truetype");
+    font-weight: bold;
+}
+.timeline-item{
+    float: left;
+    border-radius: 10px;
+    width: 100%;
+    margin: 10px;
+    transition: 200ms;
+}
+
+
+.timeline-item-title{
+    color: black;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    width: 100%;
+    display: grid;
+    position: relative;
+    background: white;
+    box-shadow: 0 0.1vw 0.5vw 0 #00000066;
+    overflow: hidden;
+  }
+
+  
+.timeline-item-title-title{
+    font-family: "ProductSansBold";
+    font-weight: 200;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    font-size: 25px;
+    position: relative;
+    padding-top: 15px;
+    padding-right: 15px;
+    text-align: left;
+    justify-content: left;
+  }
+  
+  .timeline-item-title-date{
+    font-weight: 300;
+    font-size: 16px;
+    padding-left: 15px;
+    padding-top: 0px;
+    padding-bottom: 15px;
+    margin-top: -10px;
+    right: 2%;
+  }
+
+  
+.timeline-item-content li{
+    padding-top: 2px;
+    padding-right: 5px;
+    padding-bottom: 2px;
+    font-size: 18px;
+  }
+  .timeline-item-content ul{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+  }
+  
+.timeline-item-content{
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    width: 100%;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    background: #ffffff;
+    color: #000000;
+    text-align: left;
+    box-shadow: 0 0.1vw 0.5vw 0 #00000066;
+    transition: color 0.5s;
+  }
+
+  
+@media screen and (max-width: 960px) {
+
+.timeline-item-title-title{
+    font-size: 18px;
+  }
+  
+  .timeline-item-title-date{
+    font-size: 13px;
+  }
+  
+    .timeline-item-content li{
+        font-size: 15px;
+    }
+    .timeline-item-content ul{
+      padding-left: 30px;
+      padding-right: 30px;
+      padding-top: 2px;
+      padding-bottom: 2px;
+    }
+    .timeline-item{
+        margin: 10px 10px 10px 0px;
+    }
+}
