@@ -5,6 +5,7 @@ import SoftwareView from './components/SoftwareView/SoftwareView';
 import TimelineView from './components/TimelineView/TimelineView';
 import ProjectsView from './components/ProjectsView/ProjectsView';
 import EducationView from './components/EducationView/EducationView';
+import AwardView from './components/AwardView/AwardView';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <TimelineView></TimelineView>
       <ProjectsView></ProjectsView>
       <EducationView></EducationView>
+      <AwardView></AwardView>
       <h1>hello world</h1>
       <h1>hello world</h1>
       <h1>hello world</h1>
