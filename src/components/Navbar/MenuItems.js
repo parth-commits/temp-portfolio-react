@@ -11,12 +11,12 @@ export const MenuItems = [
     },
     {
         title: 'Projects',
-        url: '#',
+        url: '#projects',
         cName: 'nav-links'
     },
     {
         title: 'Education',
-        url: '#',
+        url: '#education',
         cName: 'nav-links'
     },
     {
