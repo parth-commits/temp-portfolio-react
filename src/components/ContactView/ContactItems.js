@@ -1,11 +1,5 @@
 export const ContactItems = [
     {
-        name: 'School Email',
-        href: 'mailto:parthpatel.patel@mail.utoronto.ca',
-        itemImage: 'fas fa-university',
-        typeImage: 'far fa-envelope',
-    },
-    {
         name: 'Email',
         href: 'mailto:parthpatel1087@gmail.com',
         itemImage: 'fas fa-home',
@@ -24,4 +18,3 @@ export const ContactItems = [
         typeImage: 'fas fa-external-link-alt',
     },
 ]
-// <i class="fas fa-external-link-alt"></i>
