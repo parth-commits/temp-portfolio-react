@@ -11,6 +11,20 @@ function App() {
   return (
     <div className="App">
       <Navbar></Navbar>
+      <div class="blobsArea">
+      <ul class="blobs">
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+      </ul>
+    </div>
       <LandingView></LandingView>
       <SoftwareView></SoftwareView>
       <TimelineView></TimelineView>
