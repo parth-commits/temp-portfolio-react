@@ -3,13 +3,13 @@ export const ContactItems = [
         name: 'School Email',
         href: 'mailto:parthpatel.patel@mail.utoronto.ca',
         itemImage: 'fas fa-university',
-        typeImage: 'fas fa-copy',
+        typeImage: 'far fa-envelope',
     },
     {
         name: 'Email',
         href: 'mailto:parthpatel1087@gmail.com',
         itemImage: 'fas fa-home',
-        typeImage: 'fas fa-copy',
+        typeImage: 'far fa-envelope',
     },
     {
         name: 'Linkedin',
