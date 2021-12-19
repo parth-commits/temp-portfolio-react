@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/temp-portfolio-react/static/css/main.148fcaea.css",
-    "main.js": "/temp-portfolio-react/static/js/main.c73f5bf7.js",
+    "main.css": "/temp-portfolio-react/static/css/main.30013eb0.css",
+    "main.js": "/temp-portfolio-react/static/js/main.7b42e916.js",
     "static/media/gimp.png": "/temp-portfolio-react/static/media/gimp.efbc207ad84ab44dfe76.png",
     "static/media/windows-os-logo.png": "/temp-portfolio-react/static/media/windows-os-logo.d6c01210a5cb0ef3b5e6.png",
     "static/media/scripting.png": "/temp-portfolio-react/static/media/scripting.cb02785253db79c3d55f.png",
@@ -19,11 +19,11 @@
     "static/media/css.png": "/temp-portfolio-react/static/media/css.d9bcd77142299ea64115.png",
     "static/media/javascript.png": "/temp-portfolio-react/static/media/javascript.3abb3de3f1e1d537ad2e.png",
     "index.html": "/temp-portfolio-react/index.html",
-    "main.148fcaea.css.map": "/temp-portfolio-react/static/css/main.148fcaea.css.map",
-    "main.c73f5bf7.js.map": "/temp-portfolio-react/static/js/main.c73f5bf7.js.map"
+    "main.30013eb0.css.map": "/temp-portfolio-react/static/css/main.30013eb0.css.map",
+    "main.7b42e916.js.map": "/temp-portfolio-react/static/js/main.7b42e916.js.map"
   },
   "entrypoints": [
-    "static/css/main.148fcaea.css",
-    "static/js/main.c73f5bf7.js"
+    "static/css/main.30013eb0.css",
+    "static/js/main.7b42e916.js"
   ]
 }
