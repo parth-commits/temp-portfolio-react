@@ -33,7 +33,7 @@
   align-items: center;
   text-align: center;
   justify-content: center;
-  background: #276ED9;
+  background: #ffffff;
   background-image: linear-gradient(to right, #b3ffea,#2e7d99);
   /* the following property makes gradient stay throughout all the images */
   background-attachment: fixed;
@@ -100,7 +100,7 @@
     align-items: center;
     text-align: center;
     justify-content: center;
-    background: #276ED9;
+    background: #ffffff;
     background-image: linear-gradient(to right, #b3ffea,#2e7d99);
     /* the following property makes gradient stay throughout all the images */
     background-attachment: fixed;
