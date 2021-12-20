@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import './LandingView.css'
+import './LandingView.css';
 import { LandingViewTexts } from "./LandingViewTexts";
 class LandingView extends Component {
     

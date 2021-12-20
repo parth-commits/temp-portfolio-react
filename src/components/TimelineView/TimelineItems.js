@@ -18,9 +18,9 @@ export const TimelineItems = [
         isExpanded: true,
         descriptionItems: [
             'Followed the Software Development Process model to create and maintain multiple apps.',
-            'Created multiple apps that aid in making the user’s daily life activities more convenient. For example, made a <a href="https://galaxy.store/starbucks" target="_blank"> <b> Starbucks Rewards App</b></a> - with currently over <b className="confetti-items">9000</b> users - which allows them to scan their Rewards Card right from their watch, so they don’t have to pull out their phone at the Café. Then made a follow up app - <a href="https://galaxy.store/sqadoxczl" target="_blank"> <b> SB Scan + Pay</b></a> - which allows users to use their Starbucks Card to Pay for their beverage all the while getting rewards, right from their watch!',
+            'Created multiple apps that aid in making the user’s daily life activities more convenient. For example, made a <a href="https://galaxy.store/starbucks" target="_blank"> <b> Starbucks Rewards App</b></a> - with currently over <b class="confetti-items">9000</b> users - which allows them to scan their Rewards Card right from their watch, so they don’t have to pull out their phone at the Café. Then made a follow up app - <a href="https://galaxy.store/sqadoxczl" target="_blank"> <b> SB Scan + Pay</b></a> - which allows users to use their Starbucks Card to Pay for their beverage all the while getting rewards, right from their watch!',
             'Other interesting apps include: <a href="https://galaxy.store/tims1" target="_blank"><b>Tims Rewards</b></a>, <a href="https://galaxy.store/tic1" target="_blank"><b>TicTacToe</b></a>, <a href="https://galaxy.store/sudoku3" target="_blank"><b>Sudoku</b></a>.',
-            'Total Downloads from all apps: <b className="confetti-items">10,000+ !!</b>',
+            'Total Downloads from all apps: <b class="confetti-items">10,000+ !!</b>',
         ],
     },
     {
