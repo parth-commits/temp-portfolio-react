@@ -2,7 +2,7 @@ export const ProjectCategoryItems = [
     {
         name: 'Latest Projects',
         variable: 'latestProjects',
-        icon: 'mobile-icon.png',
+        icon: 'latest-icon.png',
         isExpanded: true,
     },
     {
