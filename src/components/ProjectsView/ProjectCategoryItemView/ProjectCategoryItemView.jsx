@@ -7,7 +7,6 @@ class ProjectCategoryItemView extends Component {
     handleClick = () => {
         this.setState({ open: !this.state.open })
     }
-    
     render() {
         return(
             <div className="project-category-item fade-in">
@@ -17,7 +16,7 @@ class ProjectCategoryItemView extends Component {
                 <div className={`project-category-item-content ${this.state.open ? 'project-category-content-open' : 'project-category-content-closed'}`}>
                     {ProjectItems[this.props.item.variable].map((item, index) => {
                         return (
-                            <ProjectItem key={index} item={item}></ProjectItem>
+                            <ProjectItem key={index} item={item} handleModalClick={this.props.handleModalClick}></ProjectItem>
                         )
                     })}
                 </div>

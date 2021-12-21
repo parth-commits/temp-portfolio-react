@@ -1,0 +1,114 @@
+.ModalView {
+    width: 100%;
+    top: 0%;
+    left: 0%;
+    height: 100vh;
+    position: fixed;
+    background-color: #0000008f;
+    z-index: 999999999;
+    justify-content: center;
+    align-items: center;
+}
+.modal-wrapper {
+    width: 400px;
+    height: 90vh;
+    background-color: white;
+    border-radius: 25px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+.modal-close-button {
+    background-color: #2e7d99;
+    height: 40px;
+    width: 150px;
+    color: #FFF;
+    margin: 5px auto;
+    font-size: 30px;
+    font-weight: 500;
+    border-radius: 20px;
+    text-align: center;
+    margin-top: 30px;
+    line-height: 40px;
+    cursor: pointer;
+}
+
+.modal-wrapper::-webkit-scrollbar-track {
+    background: #B3FFEA;
+  }
+  .modal-wrapper::-webkit-scrollbar {
+    width: 10px;
+    margin-right: 20px;
+    border-radius: 10px;
+    display: none;
+  }
+  
+  
+  .modal-wrapper::-webkit-scrollbar-thumb {
+    background: #2e7d99;
+    background-image: linear-gradient(to bottom, #2e7d99, #54d8cd);
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+  }
+
+
+
+
+
+.ModalView.modal-is-open {
+    display: flex;
+    transition: all 0.5s ease;
+}
+
+.ModalView.modal-is-closed {
+    display: none;
+    transition: all 0.5s ease;
+}
+
+
+.modal-logo{
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    height: 210px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-bottom: 20px;
+    text-align: center;
+    justify-content: center;
+    background:  #b3ffea;
+    background-image: linear-gradient(to left, #b3ffea,#2e7d99);
+    /* the following property makes gradient stay throughout all the images */
+    background-attachment: fixed;
+    box-shadow: 0 0.1vw 0.5vw 0 #00000066;
+    user-select: none;
+    overflow: hidden;
+  }
+
+
+  .modal-logo img{
+    /*width: 40%;*/
+    max-width: 80vw;
+    max-height: 180px;
+    filter: drop-shadow(0px 0.3vw 0.6vw #00000083);
+  }
+
+.modal-time {
+    margin-top: 5px;
+    width: 100%;
+    
+}
+.modal-content-wrapper {
+    margin: 15px;
+}
+.modal-contents {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+@media screen and (max-width: 500px) {
+    
+    .modal-wrapper {
+        width: 90vw;
+    }
+}

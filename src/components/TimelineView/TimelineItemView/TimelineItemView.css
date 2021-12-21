@@ -22,6 +22,7 @@
     background: white;
     box-shadow: 0 0.1vw 0.5vw 0 #00000066;
     overflow: hidden;
+    cursor: pointer;
   }
 
   

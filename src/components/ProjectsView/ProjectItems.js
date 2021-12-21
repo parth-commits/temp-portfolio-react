@@ -14,7 +14,7 @@ export const ProjectItems = {
     ],
     'wearableProjects': [
         {
-            name: 'COVID-19 Live Data App',
+            name: 'My random app',
             time: 'August 2020',
             logo: 'sb-wApp.png',
             descriptionItems: [
