@@ -1,10 +1,13 @@
 import React, { Component } from "react";
 import './ProjectsView.css';
 import { ProjectCategoryItems } from "./ProjectCategoryItems";
-import { ProjectItems } from "./ProjectItems";
 import ProjectCategoryItemView from "./ProjectCategoryItemView/ProjectCategoryItemView";
 import ModalView from "../ModalView/ModalView";
+import { disableBodyScroll, enableBodyScroll, clearAllBodyScrollLocks } from 'body-scroll-lock';
+
+
 class ProjectsView extends Component {
+    targetElement = null;
     state = { isModalOpen: false, modalContent: {
         name: 'COVID-19 Live Data App which is a really long name',
         time: 'August 2020',
@@ -28,14 +31,24 @@ class ProjectsView extends Component {
             'this is a temporary test message, will be populated with real data later',
         ],
     } }
-    
 
     handleModalClick = (item) => {
+        if (!this.state.isModalOpen) {
+            disableBodyScroll(document.querySelector('#my-modal'));
+        } else {
+            enableBodyScroll(document.querySelector('#my-modal'));
+        }
         this.setState({ isModalOpen: !this.state.isModalOpen });
         if (item) {
             this.setState({ modalContent: item });
         }
     }
+
+    componentWillUnmount() {
+        // clears all scroll locks if any
+        clearAllBodyScrollLocks();
+    }
+
     render() {
         return(
             <div className="ProjectView" id="projects">

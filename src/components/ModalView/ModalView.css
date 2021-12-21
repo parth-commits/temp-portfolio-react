@@ -4,15 +4,29 @@
     left: 0%;
     height: 100vh;
     position: fixed;
-    background-color: #0000008f;
+    background-color: #000000c7;
     z-index: 999999999;
     justify-content: center;
     align-items: center;
+}
+.close-button {
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    color: rgb(75, 75, 75);
+    font-size: 30px;
+    cursor: pointer;
 }
 .modal-wrapper {
     width: 400px;
     height: 90vh;
     background-color: white;
+    border-bottom-width: 10px;
+    border-top-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
     border-radius: 25px;
     overflow-y: scroll;
     overflow-x: hidden;
@@ -52,17 +66,24 @@
   }
 
 
-
-
-
 .ModalView.modal-is-open {
     display: flex;
-    transition: all 0.5s ease;
+    opacity: 0;
+    animation: modal-anim 0.25s forwards;
 }
+
+
+@keyframes modal-anim{
+    0%{
+        opacity: 0;
+    } 100%{
+        opacity: 1;
+    }
+  }
+  
 
 .ModalView.modal-is-closed {
     display: none;
-    transition: all 0.5s ease;
 }
 
 
@@ -73,6 +94,7 @@
     display: flex;
     flex-wrap: wrap;
     align-items: center;
+    position: relative;
     margin-bottom: 20px;
     text-align: center;
     justify-content: center;
