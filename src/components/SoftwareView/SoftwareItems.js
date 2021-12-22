@@ -1,7 +1,11 @@
 export const SoftwareItems = [
     {
-        name: 'React Native',
+        name: 'React.js',
         image: 'reactnative.png',
+    },
+    {
+        name: 'Firebase',
+        image: 'firebase.png',
     },
     {
         name: 'Vue.js',
@@ -12,8 +16,28 @@ export const SoftwareItems = [
         image: 'javascript.png',
     },
     {
-        name: 'CSS',
+        name: 'React Native',
+        image: 'reactnative.png',
+    },
+    {
+        name: 'Expo',
+        image: 'expo.png',
+    },
+    {
+        name: 'CSS 3',
         image: 'css.png',
+    },
+    {
+        name: 'Jenkins',
+        image: 'jenkins.png',
+    },
+    {
+        name: 'NoSQL',
+        image: 'nosql.png',
+    },
+    {
+        name: 'MIPS Assembly',
+        image: 'mips.png',
     },
     {
         name: 'Python',
@@ -32,10 +56,6 @@ export const SoftwareItems = [
         image: 'tizen-web-framework.png',
     },
     {
-        name: 'Scripting',
-        image: 'scripting.png',
-    },
-    {
         name: 'R',
         image: 'r-stats.png',
     },
@@ -44,11 +64,11 @@ export const SoftwareItems = [
         image: 'android-dev.png',
     },
     {
-        name: 'HTML',
+        name: 'HTML 5',
         image: 'html.png',
     },
     {
-        name: 'Linux OS',
+        name: 'Linux CLI',
         image: 'linux.png',
     },
     {
@@ -58,14 +78,6 @@ export const SoftwareItems = [
     {
         name: 'Git VCS',
         image: 'git.png',
-    },
-    {
-        name: 'MS Office',
-        image: 'microsoft-office.png',
-    },
-    {
-        name: 'Windows OS',
-        image: 'windows-os-logo.png',
     },
     {
         name: 'GIMP',

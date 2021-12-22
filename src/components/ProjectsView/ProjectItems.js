@@ -9,6 +9,7 @@ export const ProjectItems = {
                 'Links to datasets provided by the city of Toronto: <a href="https://open.toronto.ca/dataset/red-light-cameras/" target="_blank"><b>Red Light Camera</b></a> and <a href="https://open.toronto.ca/dataset/automated-speed-enforcement-locations/" target="_blank"><b>Automated Speed Enforcement Cameras</b></a>.',
                 'Tech Stack: React Native, Expo, Javascript',
                 'You may check out the code on GitHub <a href="https://github.com/parth-commits/drive-safe-toronto" target="_blank"><b>here</b></a>.',
+                'You may check out some screenshots of the app <a href="https://drive.google.com/drive/folders/13twjEOK-7zWrkATZnBRQPRIspVlJ7G_p" target="_blank"><b>here</b></a>.',
             ],
         },
         {
@@ -16,14 +17,6 @@ export const ProjectItems = {
             time: 'December 2021',
             logo: 'website-logo.png',
             descriptionItems: [
-                'A light, interactive and responsive website which showcases my Projects, Experience, Education and Awards.',
-                'This Portfolio Website is an updated version from my legacy site which was coded in basic HTML, CSS, Javascript. This site uses the React framework to make a polished and responsive UI/UX optimized for both Desktops and Mobile browsers.',
-                'Tech Stack: React, JavaScript, CSS, HTML',
-                'You may check out the code on GitHub <a href="https://github.com/parth-commits/temp-portfolio-react" target="_blank"><b>here</b></a>.',
-                'A light, interactive and responsive website which showcases my Projects, Experience, Education and Awards.',
-                'This Portfolio Website is an updated version from my legacy site which was coded in basic HTML, CSS, Javascript. This site uses the React framework to make a polished and responsive UI/UX optimized for both Desktops and Mobile browsers.',
-                'Tech Stack: React, JavaScript, CSS, HTML',
-                'You may check out the code on GitHub <a href="https://github.com/parth-commits/temp-portfolio-react" target="_blank"><b>here</b></a>.',
                 'A light, interactive and responsive website which showcases my Projects, Experience, Education and Awards.',
                 'This Portfolio Website is an updated version from my legacy site which was coded in basic HTML, CSS, Javascript. This site uses the React framework to make a polished and responsive UI/UX optimized for both Desktops and Mobile browsers.',
                 'Tech Stack: React, JavaScript, CSS, HTML',
@@ -71,6 +64,7 @@ export const ProjectItems = {
                 'Links to datasets provided by the city of Toronto: <a href="https://open.toronto.ca/dataset/red-light-cameras/" target="_blank"><b>Red Light Camera</b></a> and <a href="https://open.toronto.ca/dataset/automated-speed-enforcement-locations/" target="_blank"><b>Automated Speed Enforcement Cameras</b></a>.',
                 'Tech Stack: React Native, Expo, Javascript',
                 'You may check out the code on GitHub <a href="https://github.com/parth-commits/drive-safe-toronto" target="_blank"><b>here</b></a>.',
+                'You may check out some screenshots of the app <a href="https://drive.google.com/drive/folders/13twjEOK-7zWrkATZnBRQPRIspVlJ7G_p" target="_blank"><b>here</b></a>.',
             ],
         },
         {
@@ -82,6 +76,7 @@ export const ProjectItems = {
                 'Key features: Lets users export the data as an Excel file so they can use it for accounting purposes or any other reason they feel necessary.',
                 'Tech Stack: React Native, Expo, Javascript',
                 'You may check out the code on GitHub <a href="https://github.com/parth-commits/worklog" target="_blank"><b>here</b></a>.',
+                'You may check out some screenshots of the app <a href="https://drive.google.com/drive/folders/14DlnzOdhNmRo1pghKzMQgDhr2zRgD6D6" target="_blank"><b>here</b></a>.',
             ],
         },
         {
@@ -94,6 +89,7 @@ export const ProjectItems = {
                 'Goal of project: create a clean fast to use app to see latest COVID stats.',
                 'Tech Stack: Java, Android',
                 'You may check out the code on GitHub <a href="https://github.com/parth-commits/Coronavirus" target="_blank"><b>here</b></a>.',
+                'You may check out some screenshots of the app <a href="https://drive.google.com/drive/folders/14fuR2KHR999SG-ThkIfdW7WcwD1Woevd" target="_blank"><b>here</b></a>.',
             ],
         },
         {
