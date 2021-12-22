@@ -33,6 +33,7 @@ class ProjectsView extends Component {
     } }
 
     handleModalClick = (item) => {
+        console.warn('modal clicked');
         if (!this.state.isModalOpen) {
             disableBodyScroll(document.querySelector('#my-modal'));
         } else {
