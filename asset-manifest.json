@@ -1,9 +1,11 @@
 {
   "files": {
     "main.css": "/temp-portfolio-react/static/css/main.691489f0.css",
-    "main.js": "/temp-portfolio-react/static/js/main.e470902a.js",
+    "main.js": "/temp-portfolio-react/static/js/main.c572ca33.js",
     "static/media/gimp.png": "/temp-portfolio-react/static/media/gimp.efbc207ad84ab44dfe76.png",
     "static/media/windows-os-logo.png": "/temp-portfolio-react/static/media/windows-os-logo.d6c01210a5cb0ef3b5e6.png",
+    "static/media/jokes generator.png": "/temp-portfolio-react/static/media/jokes generator.59254e2e621e04ff648e.png",
+    "static/media/covidlivedata.png": "/temp-portfolio-react/static/media/covidlivedata.1d8a2903ce33c7d0de77.png",
     "static/media/scripting.png": "/temp-portfolio-react/static/media/scripting.cb02785253db79c3d55f.png",
     "static/media/tizen-web-framework.png": "/temp-portfolio-react/static/media/tizen-web-framework.4e6a08f723746de9bb99.png",
     "static/media/android-dev.png": "/temp-portfolio-react/static/media/android-dev.b463db76250164fc2760.png",
@@ -11,9 +13,12 @@
     "static/media/sqlite.png": "/temp-portfolio-react/static/media/sqlite.97088505b6890baa565f.png",
     "static/media/sudoku-wApp.png": "/temp-portfolio-react/static/media/sudoku-wApp.741b7e0106c7d553c58a.png",
     "static/media/vuejs.png": "/temp-portfolio-react/static/media/vuejs.489361416839de379d55.png",
+    "static/media/worklog-icon.png": "/temp-portfolio-react/static/media/worklog-icon.d10870cbb3ce6e24deca.png",
     "static/media/linux.png": "/temp-portfolio-react/static/media/linux.51f60e3e90967713d3db.png",
     "static/media/Product Sans Regular.ttf": "/temp-portfolio-react/static/media/Product Sans Regular.d165384076551a756b3c.ttf",
     "static/media/c-programming.png": "/temp-portfolio-react/static/media/c-programming.c42812be41125b2c2ec8.png",
+    "static/media/website-logo.png": "/temp-portfolio-react/static/media/website-logo.2157b0d12be32aacceb1.png",
+    "static/media/driving-alerts-toronto.png": "/temp-portfolio-react/static/media/driving-alerts-toronto.8537affc59217ca2fae6.png",
     "static/media/pc-icon.png": "/temp-portfolio-react/static/media/pc-icon.76cf4508ca1867e5b2c8.png",
     "static/media/tictactoe-wApp.png": "/temp-portfolio-react/static/media/tictactoe-wApp.82c2665bc369ee7a5205.png",
     "static/media/wearable-icon.png": "/temp-portfolio-react/static/media/wearable-icon.c4d60abf54df2dbdb4a1.png",
@@ -22,14 +27,16 @@
     "static/media/java.png": "/temp-portfolio-react/static/media/java.db2677ade9a5e70e925b.png",
     "static/media/sb-wApp.png": "/temp-portfolio-react/static/media/sb-wApp.b871c4685f1c9ae1cc89.png",
     "static/media/gcp.png": "/temp-portfolio-react/static/media/gcp.af3a9505746c56134dbc.png",
+    "static/media/conference-icon.png": "/temp-portfolio-react/static/media/conference-icon.0bfb8797b6a4da00412c.png",
+    "static/media/pcpoints-wApp.png": "/temp-portfolio-react/static/media/pcpoints-wApp.1e55d10c8966f61c7e22.png",
     "static/media/css.png": "/temp-portfolio-react/static/media/css.d9bcd77142299ea64115.png",
     "static/media/javascript.png": "/temp-portfolio-react/static/media/javascript.3abb3de3f1e1d537ad2e.png",
     "index.html": "/temp-portfolio-react/index.html",
     "main.691489f0.css.map": "/temp-portfolio-react/static/css/main.691489f0.css.map",
-    "main.e470902a.js.map": "/temp-portfolio-react/static/js/main.e470902a.js.map"
+    "main.c572ca33.js.map": "/temp-portfolio-react/static/js/main.c572ca33.js.map"
   },
   "entrypoints": [
     "static/css/main.691489f0.css",
-    "static/js/main.e470902a.js"
+    "static/js/main.c572ca33.js"
   ]
 }
