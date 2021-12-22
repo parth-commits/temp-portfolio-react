@@ -21,7 +21,7 @@
     width: 400px;
     height: 90vh;
     background-color: white;
-    border-bottom-width: 10px;
+    border-bottom-width: 0px;
     border-top-width: 0px;
     border-left-width: 0px;
     border-right-width: 0px;
@@ -45,27 +45,6 @@
     line-height: 40px;
     cursor: pointer;
 }
-
-.modal-wrapper::-webkit-scrollbar-track {
-    background: #B3FFEA;
-  }
-  .modal-wrapper::-webkit-scrollbar {
-    width: 10px;
-    margin-right: 20px;
-    border-radius: 10px;
-    display: none;
-  }
-  
-  
-  .modal-wrapper::-webkit-scrollbar-thumb {
-    background: #2e7d99;
-    background-image: linear-gradient(to bottom, #2e7d99, #54d8cd);
-    margin-left: 20px;
-    margin-right: 20px;
-    border-radius: 10px;
-  }
-
-
 .ModalView.modal-is-open {
     display: flex;
     opacity: 0;
